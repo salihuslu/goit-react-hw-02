@@ -1,0 +1,9 @@
+.feedback {
+  border: 2px solid orange;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 1.6;
+  display: block;
+  width: fit-content;
+}
