@@ -61,7 +61,7 @@ function App() {
           positive={positivePercentage}
         />
       ) : (
-        <Notification message="No feedback yet. Be the first!" />
+        <Notification message="No feedback yet" />
       )}
     </div>
   );
